@@ -1,4 +1,4 @@
-# Real data for reproducibility
+# Real data for benchmark reproducibility
 
 This repository provides access to real datasets from the study:
 
